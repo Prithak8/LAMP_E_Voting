@@ -9,6 +9,10 @@
 The project consists of a fully functional electronic voting system designed to ensure security, reliability, and ease of use. By leveraging the power of the LAMP stack, it provides a robust and scalable solution for conducting elections online.
 
 
+![image](https://github.com/Prithak8/LAMP_E_Voting/assets/109690999/343e776f-e1f3-4010-9863-e3ff178bb3ed)
+
+
+
 
 ## Features
 
@@ -33,6 +37,11 @@ The project includes a MySQL database with three tables:
 
 
 Party: Stores information about political parties participating in the election.
+
+note: for Party table we have to manually create table in phpmyadmin and dump some data as follows:
+
+![image](https://github.com/Prithak8/LAMP_E_Voting/assets/109690999/8b729a0e-f78a-4e9c-9563-b785f5c12e35)
+
 
 Loginusers: Contains user credentials for logging into the system securely.
 
