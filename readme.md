@@ -12,12 +12,19 @@ The project consists of a fully functional electronic voting system designed to 
 
 ## Features
 
+
 Authentication: Users can securely log in to the system using their credentials.
+
 Voter Management: The system maintains a database of registered voters, ensuring accurate and up-to-date records.
+
 Party Management: Parties participating in the election are managed within the system, facilitating organization and administration.
+
 Voting Process: Voters can cast their votes electronically, with the system ensuring confidentiality and integrity throughout the process.
+
 Results Reporting: The system generates comprehensive reports of election results, providing transparency and accountability.
+
 Security: Passwords of every users are encrypted using md5 encryption in the database
+
 
 ##  Database Structure
 
@@ -26,9 +33,13 @@ The project includes a MySQL database with three tables:
 
 
 Party: Stores information about political parties participating in the election.
+
 Loginusers: Contains user credentials for logging into the system securely.
+
 Voters: Maintains records of registered voters, including their personal details.
+
 The database schema and code for table creation are provided in the database folder, under the name 'secure_e_voting'.
+
 
 ## How to Use
 
