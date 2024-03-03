@@ -17,7 +17,7 @@ Voter Management: The system maintains a database of registered voters, ensuring
 Party Management: Parties participating in the election are managed within the system, facilitating organization and administration.
 Voting Process: Voters can cast their votes electronically, with the system ensuring confidentiality and integrity throughout the process.
 Results Reporting: The system generates comprehensive reports of election results, providing transparency and accountability.
-
+Security: Passwords of every users are encrypted using md5 encryption in the database
 
 ##  Database Structure
 
