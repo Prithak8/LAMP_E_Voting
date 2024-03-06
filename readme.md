@@ -58,3 +58,4 @@ To deploy the project, simply set up a LAMP environment and import the provided 
 
 
 The Secure E-Voting System project showcases the capabilities of the LAMP stack in developing secure and reliable web applications. By providing a user-friendly interface and robust backend functionality, it offers a seamless experience for conducting electronic elections.
+
