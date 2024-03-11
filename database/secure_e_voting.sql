@@ -82,11 +82,6 @@ ALTER TABLE `voters`
   ADD UNIQUE KEY `username` (`username`);
 
 --
--- AUTO_INCREMENT for dumped tables
---
-
---
---
 -- AUTO_INCREMENT for table `loginusers`
 --
 ALTER TABLE `loginusers`
