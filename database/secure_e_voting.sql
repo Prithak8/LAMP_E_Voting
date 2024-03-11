@@ -32,7 +32,7 @@ CREATE TABLE `loginusers` (
   `password` varchar(100) NOT NULL,
   `rank` varchar(80) NOT NULL DEFAULT 'voter',
   `status` varchar(10) NOT NULL DEFAULT 'ACTIVE'
-) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+) ENGINE=MyISAM;
 
 --
 -- Dumping data for table `loginusers`
@@ -53,7 +53,7 @@ CREATE TABLE `voters` (
   `username` varchar(100) NOT NULL,
   `status` varchar(10) NOT NULL DEFAULT 'NOTVOTED',
   `voted` varchar(255) DEFAULT NULL
-) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+) ENGINE=MyISAM;
 
 --
 -- Dumping data for table `voters`
@@ -90,10 +90,6 @@ ALTER TABLE `voters`
 --
 
 --
--- AUTO_INCREMENT for table `languages`
---
-ALTER TABLE `party`
-  MODIFY `lan_id` int(100) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
 --
 -- AUTO_INCREMENT for table `loginusers`
 --
