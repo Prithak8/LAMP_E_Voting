@@ -1,12 +1,12 @@
 # Secure E-Voting System: A LAMP Project
 
 
-<a href="http://secureevoting.great-site.net"> Project Link </a>
+<a href="http://secureevoting.great-site.net" target="_blank"> Project Link </a>
 
 ### This repository contains a comprehensive web development project aimed at creating a secure electronic voting system. By following this documentation only one can build the entire project from the scratch.
 The project utilizes the LAMP stack, with Apache serving as the web server, MySQL as the database management system, and PHP as the backend programming language. The frontend is developed using HTML, CSS, and JavaScript, with additional styling provided by Bootstrap CSS. Furthermore, all the uesr password has been hashed using md5 function. using the following documentation.
 
-<a href="https://www.w3schools.com/php/func_string_md5.asp">md5 documentation link</a>
+<a href="https://www.w3schools.com/php/func_string_md5.asp" target="_blank">md5 documentation link</a>
 <hr>
 
 
@@ -99,17 +99,17 @@ To deploy the project, simply set up a LAMP environment and import the provided 
 
 ### I have deployed the entire project using completely free services from 
 
-<a href="https://www.infinityfree.com">Infinity Free</a>
+<a href="https://www.infinityfree.com" target="_blank">Infinity Free</a>
 
 
 ### My project:
 
-<a href="http://secureevoting.great-site.net"> Project Link </a>
+<a href="http://secureevoting.great-site.net" target="_blank"> Project Link </a>
 
 
 ### I used the following reference video for successful deployement of the website. You can check it out too!
 
-<a href="https://www.youtube.com/watch?v=IDMEVxEyc5U">Reference Youtube Video</a>
+<a href="https://www.youtube.com/watch?v=IDMEVxEyc5U" target="_blank">Reference Youtube Video</a>
 
 
 
