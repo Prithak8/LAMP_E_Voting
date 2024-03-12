@@ -1,7 +1,8 @@
 # Secure E-Voting System: A LAMP Project
 
 
-<a href="http://secureevoting.great-site.net" target="_blank"> Project Link </a>
+[Project Link](http://secureevoting.great-site.net)
+
 
 ### This repository contains a comprehensive web development project aimed at creating a secure electronic voting system. By following this documentation only one can build the entire project from the scratch.
 The project utilizes the LAMP stack, with Apache serving as the web server, MySQL as the database management system, and PHP as the backend programming language. The frontend is developed using HTML, CSS, and JavaScript, with additional styling provided by Bootstrap CSS. Furthermore, all the uesr password has been hashed using md5 function. using the following documentation.
