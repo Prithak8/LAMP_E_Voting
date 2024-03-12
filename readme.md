@@ -3,7 +3,8 @@
 
 <a href="http://secureevoting.great-site.net"> Project Link </a>
 
-### This repository contains a comprehensive web development project aimed at creating a secure electronic voting system. The project utilizes the LAMP stack, with Apache serving as the web server, MySQL as the database management system, and PHP as the backend programming language. The frontend is developed using HTML, CSS, and JavaScript, with additional styling provided by Bootstrap CSS. Furthermore, all the uesr password has been hashed using md5 function. using the following documentation.
+### This repository contains a comprehensive web development project aimed at creating a secure electronic voting system. By following this documentation only one can build the entire project from the scratch.
+The project utilizes the LAMP stack, with Apache serving as the web server, MySQL as the database management system, and PHP as the backend programming language. The frontend is developed using HTML, CSS, and JavaScript, with additional styling provided by Bootstrap CSS. Furthermore, all the uesr password has been hashed using md5 function. using the following documentation.
 
 <a href="https://www.w3schools.com/php/func_string_md5.asp">md5 documentation link</a>
 <hr>
@@ -20,9 +21,6 @@ The project consists of a fully functional electronic voting system designed to 
 
 
 ![image](https://github.com/Prithak8/Secure_E_Voting_-LAMP-/assets/109690999/c3726ca1-b95b-4ed4-a4a8-7731ac73bcab)
-
-
-![image](https://github.com/Prithak8/Secure_E_Voting_-LAMP-/assets/109690999/503184c4-acac-4827-9f7a-654e386630d4)
 
 
 ![image](https://github.com/Prithak8/Secure_E_Voting_-LAMP-/assets/109690999/ba233b8e-0d52-4ec4-8768-5800f04b99ba)
@@ -94,6 +92,8 @@ The database schema and code for table creation are provided in the database fol
 ## How to Use
 
 To deploy the project, simply set up a LAMP environment and import the provided database. Configure the Apache server to host the project files and ensure that PHP is properly configured. Users can then access the system through a web browser to participate in the election process.
+
+![image](https://github.com/Prithak8/Secure_E_Voting_-LAMP-/assets/109690999/503184c4-acac-4827-9f7a-654e386630d4)
 
 ## Internet Deployement:
 
