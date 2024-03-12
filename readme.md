@@ -1,7 +1,7 @@
 # Secure E-Voting System: A LAMP Project
 
 
-[Project Link](http://secureevoting.great-site.net)
+[Project Link](https://secureevoting.great-site.net)
 
 
 ### This repository contains a comprehensive web development project aimed at creating a secure electronic voting system. By following this documentation only one can build the entire project from the scratch.
